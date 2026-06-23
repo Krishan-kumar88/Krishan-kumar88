@@ -63,3 +63,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishan-kumar88&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishan-kumar-667484334/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Krishan%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.krishan885@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dev.krishan885%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
