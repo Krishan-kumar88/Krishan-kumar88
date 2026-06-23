@@ -5,17 +5,6 @@
   Focused on building web applications, strengthening problem-solving skills through DSA, and growing as a MERN stack developer.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/krishan-kumar-667484334/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Krishan%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dev.krishan885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dev.krishan885%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/krishan-kumar88" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-krishan--kumar88-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
@@ -34,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -54,20 +43,3 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishan-kumar88&show_icons=true&theme=tokyonight&locale=en" alt="Krishan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishan-kumar88&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/krishan-kumar-667484334/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Krishan%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dev.krishan885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dev.krishan885%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
